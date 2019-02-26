@@ -17,7 +17,7 @@ El repositorio consta de:
 
 -Carpeta data que contiene todas las imágenes de las texturas. 
 
-#Controles de la nave
+# Controles de la nave
 
 Para mover la nave se permite tanto el uso del cursor del ratón como del WASD del teclado. En ambos casos para que la nave se mueva en el eje Z se usará la rueda del ratón.
 
@@ -34,7 +34,7 @@ E para girar con un angulo la nave en Y
 Q para girar con un angulo la nave en Y 
 
 
-#Controles extra
+# Controles extra
 
 I para acceder al menú de información
 
